@@ -1,0 +1,21 @@
+.section-definition{
+    padding: 100px 0;
+    text-align: center;
+    background-color: $white;
+}
+
+.section-definition__img{
+    width: 70vw;
+}
+
+.section-definition__h2{
+    font-family: $raleway;
+    font-weight: $bold;
+    font-size: $large;
+}
+
+.section-definition__p{
+    font-family: $raleway;
+    font-weight: $regular;
+    font-size: $medium;
+}

@@ -1,0 +1,149 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Base Typography*/
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  font-size: 700;
+}
+
+.header {
+  padding-top: 2rem;
+  padding-left: 4rem;
+}
+
+.logo {
+  width: 250px;
+}
+
+.section-title {
+  text-align: center;
+  background-color: #E56353;
+}
+
+.section-title__title {
+  padding: 100px 0;
+  text-align: center;
+  color: white;
+  font-family: "Raleway", sans-serif;
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+
+.section-title__title-emphasis {
+  font-family: "Raleway", sans-serif;
+  font-size: 70px;
+  font-weight: 700;
+}
+
+.section-principal {
+  padding: 100px 0;
+  text-align: center;
+  background-color: #A0A0A0;
+}
+
+.section-principal__img {
+  width: 70vw;
+}
+
+.section-principal__h2 {
+  color: white;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.section-principal__p {
+  color: white;
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.section-definition {
+  padding: 100px 0;
+  text-align: center;
+  background-color: #FFF;
+}
+
+.section-definition__img {
+  width: 70vw;
+}
+
+.section-definition__h2 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.section-definition__p {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.section-title2 {
+  padding: 50px 0;
+  text-align: center;
+  background-color: #E56353;
+}
+
+.section-title2__h1 {
+  color: white;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.article {
+  padding: 50px 0;
+  text-align: center;
+}
+
+.article___img {
+  width: 40vw;
+}
+
+.article__p {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+}
+
+.section-contact {
+  padding: 50px 0px;
+  text-align: center;
+  background-color: #E56353;
+}
+
+.section-contact__h2 {
+  text-align: center;
+  color: white;
+  font-size: 50px;
+}
+
+.section-contact__buttons {
+  padding: 10px 30px;
+  background-color: white;
+  border-radius: 28px;
+  font-size: 26px;
+}
+
+.footer {
+  padding: 50px 0;
+  text-align: center;
+  background-color: #A0A0A0;
+}
+
+.footer__logo {
+  width: 15vw;
+}
+
+/*# sourceMappingURL=main.css.map */

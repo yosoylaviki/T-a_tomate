@@ -1,0 +1,24 @@
+.section-principal{
+    padding: 100px 0;
+    text-align: center;
+    background-color: $quick-silver;
+
+}
+
+.section-principal__img{
+    width: 70vw;
+}
+
+.section-principal__h2{
+    color: white;
+    font-family: $raleway;
+    font-weight: $bold;
+    font-size: $large;
+}
+
+.section-principal__p{
+    color: white;
+    font-family: $raleway;
+    font-weight: $regular;
+    font-size: $medium;
+}

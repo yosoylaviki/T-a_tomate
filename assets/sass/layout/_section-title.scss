@@ -1,0 +1,21 @@
+.section-title{
+text-align: center;
+background-color: $jelly-bean;
+
+}
+
+.section-title__title{
+    padding: 100px 0;
+    text-align: center;
+    color: white;
+    font-family: $raleway;
+    font-size: $large; 
+    margin-bottom: 0px;
+    
+}
+
+.section-title__title-emphasis{
+    font-family: $raleway;
+    font-size: $x-large; 
+    font-weight: $bold;
+}
